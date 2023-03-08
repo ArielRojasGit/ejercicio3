@@ -1,0 +1,109 @@
+{
+
+"datos":[
+{   "propietario":"Juan",
+    "codigo":"1",
+    "titulo":"Angel exterminador",
+    "autor": "Iron",
+    "descripcion":"Antes que nada hay que decir que este tebeo no es para todos los públicos. Los niveles de violencia que se muestran en él son desmesurados, y en la misma consonancia va la incorrección política que salpica cada una de las páginas. Tanto, que hoy en día creo que sería inimaginable que se publicase un tebeo así, tan cafre, tan burro, tan antisistema. En definitiva, señas de buena parte del underground reivindicativo e inconformista que llenó revistas como la mencionada El Víbora, Makoki o El Jueves en su mejor época.",
+    "precio" : "3"
+},
+{
+    "propietario":"Antonio",
+    "codigo":"2",
+    "titulo" : "El víbora",
+    "autor": "Varios autores",
+    "descripcion": "El Víbora fue una revista que, durante veinticinco años, entre 1979 y 2004, compareció todos los meses en los quioscos de este país extraño para llevar a los lectores un contenido lúdico y hedonista, estrafalario y libertino, crítico y ácrata, subversivo y hasta vanguardista.",
+    "precio" : "12"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"3",
+    "titulo":"todo makokir",
+    "autor": "Iron",
+    "descripcion":"En el manicomio se ha producido una revuelta y de él ha escapado Makoki. Este estrafalario loco se paseará a partir de entonces por el barrio con su camisa de fuerza y su casco de electroshock del que aún cuelgan los cables arrancados en su huida puesto que de vez en cuando aún necesita alguna descarga eléctrica para colocarse. Pronto La Basca formada por El Emo, El Cuco, Morgan y El Niñato se unirán a sus flipadas y alucinatorias aventuras haciendo la vida imposible a los amantes de las normas y el orden.",
+    "precio" : "15"
+},
+{
+    "propietario":"Antonio",
+    "codigo":"4",
+    "titulo":"Tmeo",
+    "autor": "varios autores",
+    "descripcion":"Que salga un nuevo Tmeo siempre es, ha sido y será motivo de inflamación de vejiga por la alegría que ello supone. Pasemos a desgranar a la nueva criatura. Dentro de las páginas mandibulobatientes de este primer TMEO del año encontraremos, entre otros muchos movidotes, análisis sociales viñetados cortesía de Piñata ",
+    "precio" : "5"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"5",
+    "titulo":"The freak brothers",
+    "autor": "gilbert Shelton",
+    "descripcion":"Hace más de cuarenta años, Gilbert Shelton creó a Los fabulosos Freak Brothers vertiendo un tanto de sátira, un algo de humor físico al estilo clásico y una pizca de delirio psicodélico.  A la publicación de este volumen, el primero de una edición integral remasterizada, este trío de chiflados sigue siendo el testigo más descacharrante de una época en que el mundo quiso ser un lugar mejor. O al menos más fumado.",
+    "precio" : "25"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"5",
+    "titulo":"The freak brothers",
+    "autor": "gilbert Shelton",
+    "descripcion":"Hace más de cuarenta años, Gilbert Shelton creó a Los fabulosos Freak Brothers vertiendo un tanto de sátira, un algo de humor físico al estilo clásico y una pizca de delirio psicodélico.  A la publicación de este volumen, el primero de una edición integral remasterizada, este trío de chiflados sigue siendo el testigo más descacharrante de una época en que el mundo quiso ser un lugar mejor. O al menos más fumado.",
+    "precio" : "25"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"5",
+    "titulo":"The freak brothers",
+    "autor": "gilbert Shelton",
+    "descripcion":"Hace más de cuarenta años, Gilbert Shelton creó a Los fabulosos Freak Brothers vertiendo un tanto de sátira, un algo de humor físico al estilo clásico y una pizca de delirio psicodélico.  A la publicación de este volumen, el primero de una edición integral remasterizada, este trío de chiflados sigue siendo el testigo más descacharrante de una época en que el mundo quiso ser un lugar mejor. O al menos más fumado.",
+    "precio" : "25"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"5",
+    "titulo":"The freak brothers",
+    "autor": "gilbert Shelton",
+    "descripcion":"Hace más de cuarenta años, Gilbert Shelton creó a Los fabulosos Freak Brothers vertiendo un tanto de sátira, un algo de humor físico al estilo clásico y una pizca de delirio psicodélico.  A la publicación de este volumen, el primero de una edición integral remasterizada, este trío de chiflados sigue siendo el testigo más descacharrante de una época en que el mundo quiso ser un lugar mejor. O al menos más fumado.",
+    "precio" : "25"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"5",
+    "titulo":"The freak brothers",
+    "autor": "gilbert Shelton",
+    "descripcion":"Hace más de cuarenta años, Gilbert Shelton creó a Los fabulosos Freak Brothers vertiendo un tanto de sátira, un algo de humor físico al estilo clásico y una pizca de delirio psicodélico.  A la publicación de este volumen, el primero de una edición integral remasterizada, este trío de chiflados sigue siendo el testigo más descacharrante de una época en que el mundo quiso ser un lugar mejor. O al menos más fumado.",
+    "precio" : "25"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"5",
+    "titulo":"The freak brothers",
+    "autor": "gilbert Shelton",
+    "descripcion":"Hace más de cuarenta años, Gilbert Shelton creó a Los fabulosos Freak Brothers vertiendo un tanto de sátira, un algo de humor físico al estilo clásico y una pizca de delirio psicodélico.  A la publicación de este volumen, el primero de una edición integral remasterizada, este trío de chiflados sigue siendo el testigo más descacharrante de una época en que el mundo quiso ser un lugar mejor. O al menos más fumado.",
+    "precio" : "25"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"5",
+    "titulo":"The freak brothers",
+    "autor": "gilbert Shelton",
+    "descripcion":"Hace más de cuarenta años, Gilbert Shelton creó a Los fabulosos Freak Brothers vertiendo un tanto de sátira, un algo de humor físico al estilo clásico y una pizca de delirio psicodélico.  A la publicación de este volumen, el primero de una edición integral remasterizada, este trío de chiflados sigue siendo el testigo más descacharrante de una época en que el mundo quiso ser un lugar mejor. O al menos más fumado.",
+    "precio" : "25"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"5",
+    "titulo":"The freak brothers",
+    "autor": "gilbert Shelton",
+    "descripcion":"Hace más de cuarenta años, Gilbert Shelton creó a Los fabulosos Freak Brothers vertiendo un tanto de sátira, un algo de humor físico al estilo clásico y una pizca de delirio psicodélico.  A la publicación de este volumen, el primero de una edición integral remasterizada, este trío de chiflados sigue siendo el testigo más descacharrante de una época en que el mundo quiso ser un lugar mejor. O al menos más fumado.",
+    "precio" : "25"
+},
+{
+    "propietario":"Pedro",
+    "codigo":"5",
+    "titulo":"The freak brothers",
+    "autor": "gilbert Shelton",
+    "descripcion":"Hace más de cuarenta años, Gilbert Shelton creó a Los fabulosos Freak Brothers vertiendo un tanto de sátira, un algo de humor físico al estilo clásico y una pizca de delirio psicodélico.  A la publicación de este volumen, el primero de una edición integral remasterizada, este trío de chiflados sigue siendo el testigo más descacharrante de una época en que el mundo quiso ser un lugar mejor. O al menos más fumado.",
+    "precio" : "25"
+}]
+}
+
+

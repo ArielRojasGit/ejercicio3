@@ -1,0 +1,42 @@
+
+<div class="contenedor" >
+  
+  <table mat-table [dataSource]="datos" class="mat-elevation-z8" #tabla1>
+    
+      <ng-container matColumnDef="codigo">
+        <th mat-header-cell *matHeaderCellDef> Código </th>
+        <td mat-cell *matCellDef="let pepito"> {{pepito.codigo}} </td>
+      </ng-container>
+    
+      <ng-container matColumnDef="titulo">
+        <th mat-header-cell *matHeaderCellDef> titulo </th>
+        <td mat-cell *matCellDef="let data"> {{data.titulo}} </td>
+      </ng-container>
+    
+      <ng-container matColumnDef="autor">
+        <th mat-header-cell *matHeaderCellDef> autor </th>
+        <td mat-cell *matCellDef="let data"> {{data.autor}} </td>
+      </ng-container>
+      <ng-container matColumnDef="descripcion">
+        <th mat-header-cell *matHeaderCellDef> descripción </th>
+        <td mat-cell *matCellDef="let data"> {{data.descripcion}} </td>
+      </ng-container>
+      <ng-container matColumnDef="precio">
+        <th mat-header-cell *matHeaderCellDef> Precio </th>
+        <td mat-cell *matCellDef="let data"> {{data.precio}} </td>
+      </ng-container>
+    
+      <ng-container matColumnDef="borrar">
+        <th mat-header-cell *matHeaderCellDef> Borra? </th>
+        <td mat-cell *matCellDef="let j = index;">
+          <button mat-raised-button color="warn" focusable="false">
+            Borra?
+          </button>
+        </td>
+      </ng-container>
+      <tr mat-header-row *matHeaderRowDef="columnas"></tr>
+      <tr mat-row *matRowDef="let row; columns: columnas"></tr>
+    </table> 
+    <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" ></mat-paginator>
+
+</div>

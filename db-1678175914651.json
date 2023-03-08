@@ -1,0 +1,14 @@
+{
+  "datos": [
+    {
+      "codigo": "3",
+      "descripcion": "peras",
+      "precio": "3"
+    },
+    {
+      "codigo": "4",
+      "descripcion": "aceite",
+      "precio": "5"
+    }
+  ]
+}

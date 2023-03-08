@@ -1,0 +1,10 @@
+<!-- <h1 *ngFor = "let item of data">{{item.titulo}}-{{item.autor}}</h1> -->
+<div class="container">
+  <form class="example-form" (ngSubmit)="logado()">
+      <mat-form-field class="example-full-width">
+        <mat-label>USUARIO</mat-label>
+        <input matInput [formControl]="propietarioFC" placeholder="Introduzca su usuario" >
+      </mat-form-field>
+      <button mat-raised-button color="primary">Agregar</button> 
+    </form>
+</div>
